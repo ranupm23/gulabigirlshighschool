@@ -1,4 +1,4 @@
-Here’s a clean, professional, **ready-to-copy README.md** (proper formatting, spacing, and polished wording):
+
 
 ```markdown
 # 🌸 Gulabi High School Website
@@ -31,7 +31,7 @@ This website includes the following pages:
 
 ## 📁 Project Structure
 
-```
+```bash
 
 src/
 │
