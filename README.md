@@ -142,11 +142,6 @@ This project is open-source. You can add your preferred license here.
 **Janardhan Naik**
 
 * GitHub: [https://github.com/Janardhannaik](https://github.com/Janardhannaik)
-* Email: [naikjanardhan568@gmail.com](mailto:naikjanardhan568@gmail.com)
 
 ```
 
----
-
-If you want, I can :contentReference[oaicite:0]{index=0} — that will make your project look 🔥 for recruiters.
-```
